@@ -1,6 +1,8 @@
 <template>
   <div class="level-1">
-    <h1>This is an level-1 page</h1>
+    <div class="container">
+
+    </div>
   </div>
 </template>
 
@@ -12,3 +14,9 @@ export default {
   }
 }
 </script>
+
+<style>
+.level-1 {
+  padding: 40px 0;
+}
+</style>
