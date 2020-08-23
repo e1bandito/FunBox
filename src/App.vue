@@ -26,6 +26,7 @@
 
 <style lang="scss">
 @import "styles/variables";
+@import "styles/helpers";
 body {
   font-family: "Trebuchet MS", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
