@@ -37,8 +37,10 @@ body {
   position: fixed;
   left: 0;
   top: 0;
-  background-color: rgba($white, 0.5);
+  background-color: $white;
+  border-bottom: 1px solid $blue;
   width: 100%;
+  z-index: 1;
 }
 
 .nav__list {
