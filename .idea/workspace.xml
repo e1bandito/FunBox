@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75fb272f-d455-449c-8aac-f590bb034a75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gP2fS5gWc0F7yWTupF2eDTlyFY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/fonts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\red\Documents\GitHub\funbox\src\fonts" />
+      <recent name="C:\Users\red\Documents\GitHub\funbox\src\styles" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm run serve" />
+      <command value="npm run build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75fb272f-d455-449c-8aac-f590bb034a75" name="Default Changelist" comment="" />
+      <created>1598002010331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598002010331</updated>
+      <workItem from="1598002012193" duration="3107000" />
+      <workItem from="1598015975084" duration="6957000" />
+      <workItem from="1598119916184" duration="710000" />
+      <workItem from="1598194987068" duration="2058000" />
+      <workItem from="1598281930538" duration="2834000" />
+      <workItem from="1598341526142" duration="8320000" />
+      <workItem from="1598425167059" duration="16953000" />
+      <workItem from="1598461787973" duration="3363000" />
+      <workItem from="1598511939818" duration="15638000" />
+      <workItem from="1598598938967" duration="227000" />
+      <workItem from="1598599220035" duration="4614000" />
+    </task>
+    <task id="LOCAL-00001" summary="init repo">
+      <created>1598004577019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598004577019</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add styles for nav">
+      <created>1598019259291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598019259291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add styles for interview">
+      <created>1598196996837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598196996837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add level-1 answers">
+      <created>1598439395090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598439395090</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add level-2 card">
+      <created>1598600491087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598600491087</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix errors">
+      <created>1598601318837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598601318837</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add dist">
+      <created>1598601704217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598601704217</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init repo" />
+    <MESSAGE value="add styles for nav" />
+    <MESSAGE value="add styles for interview" />
+    <MESSAGE value="add level-1 answers" />
+    <MESSAGE value="add level-2 card" />
+    <MESSAGE value="fix errors" />
+    <MESSAGE value="add dist" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dist" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1148" y="592" key="#ESLint" timestamp="1598602304815">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1148" y="592" key="#ESLint/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598602304815" />
+    <state x="1025" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598454747328">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1025" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598454747328" />
+    <state x="905" y="283" key="CommitChangelistDialog2" timestamp="1598601703210">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="283" key="CommitChangelistDialog2/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598601703210" />
+    <state x="1158" y="598" key="Github.ShareDialog" timestamp="1598005034591">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1158" y="598" key="Github.ShareDialog/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598005034591" />
+    <state width="2517" height="272" key="GridCell.Tab.0.bottom" timestamp="1598602547376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="272" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598602547376" />
+    <state width="2517" height="272" key="GridCell.Tab.0.center" timestamp="1598602547376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="272" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598602547376" />
+    <state width="2517" height="272" key="GridCell.Tab.0.left" timestamp="1598602547376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="272" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598602547376" />
+    <state width="2517" height="272" key="GridCell.Tab.0.right" timestamp="1598602547376">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="272" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598602547376" />
+    <state x="918" y="461" key="MultipleFileMergeDialog" timestamp="1598603078176">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="918" y="461" key="MultipleFileMergeDialog/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598603078176" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1598601711222">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598601711222" />
+    <state x="936" y="330" width="672" height="677" key="run.anything.popup" timestamp="1598602543595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" width="672" height="677" key="run.anything.popup/0.0.2560.1400/-1920.360.1920.1080@0.0.2560.1400" timestamp="1598602543595" />
+  </component>
+</project>
