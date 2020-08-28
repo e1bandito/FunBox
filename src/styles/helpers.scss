@@ -1,3 +1,16 @@
+ @font-face {
+   font-family: 'Exo 2.0 Thin';
+   font-style: normal;
+   font-weight: 400;
+   src: url('~@/fonts/Exo2_0Thin.eot');
+   src: url('~@/fonts/Exo2_0Thin.eot?#iefix') format('embedded-opentype'),
+        url('~@/fonts/Exo2_0Thin.woff2') format('woff2'),
+        url('~@/fonts/Exo2_0Thin.woff') format('woff'),
+        url('~@/fonts/Exo2_0Thin.otf')  format('opentype'),
+        url('~@/fonts/Exo2_0Thin.ttf')  format('truetype'),
+        url('~@/fonts/Exo2_0Thin.svg#svgExo2_0Thin') format('svg');
+ }
+
 html {
   box-sizing: border-box;
 }

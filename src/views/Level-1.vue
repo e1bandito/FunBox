@@ -39,8 +39,6 @@
 </template>
 
 <script>
-
-
 export default {
   name: 'Level-1',
   components: {
@@ -115,17 +113,17 @@ export default {
               {
                 link: 'https://yadi.sk/d/AvvF-3II-Ejhlw?w=1',
                 text: 'Верстка интернет-магазина',
-                desc: 'Кроссбраузерная, адаптивная, валидная верстка, Gulp, SCSS'
+                desc: 'кроссбраузерная, адаптивная, валидная верстка, Gulp, SCSS'
               },
               {
                 link: 'https://yadi.sk/d/xFI1WOQKgQ20Ew?w=1',
                 text: 'Верстка CRM',
-                desc: 'Кроссбраузерная, адаптивная, валидная верстка, Gulp, SCSS'
+                desc: 'кроссбраузерная, адаптивная, валидная верстка, Gulp, SCSS'
               },
               {
                 link: 'https://yadi.sk/d/DQOKSRiiaiwl9Q?w=1',
                 text: 'Лэндинг',
-                desc: 'Кроссбраузерная, адаптивная, валидная верстка, анимации, Gulp, SCSS, JS(JQuery)'
+                desc: 'кроссбраузерная, адаптивная, валидная верстка, анимации, Gulp, SCSS, JS(JQuery)'
               },
               {
                 link: 'https://liga-a.ru/case-homeless.html',
