@@ -146,4 +146,16 @@ export default {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.products__item {
+  margin-bottom: 40px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  @media (min-width: 576px) {
+    margin: 0 20px 40px;
+  }
+}
 </style>

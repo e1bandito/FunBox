@@ -61,11 +61,6 @@ export default {
 .card {
   width: 320px;
   color: $white;
-  margin-bottom: 20px;
-
-  @media (min-width: 576px) {
-    margin: 0 20px 20px;
-  }
 
   &--selected {
     & .card__inner {
